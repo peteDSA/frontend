@@ -4,7 +4,7 @@ include 'header.php';
 include 'footer.php';
 
 
-// variables (to be replaced with real ones from webcom server)
+// variables (to be replaced with real ones from webcom server) 2222 s
 $accountNumber = "23452345234";
 $accountName = "Declan Rennick";
 
