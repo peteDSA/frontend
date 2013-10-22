@@ -4,7 +4,7 @@ include 'header.php';
 include 'footer.php';
 //include 'logisenseConnect.php';
 
-// variables (to be replaced with real ones from Digiweb server)
+// variables (to be replaced with real ones from webcom server)
 $accountNumber = "23452345234";
 $accountName = "Declan Rennick";
 
@@ -125,15 +125,15 @@ function displayContent($_accountNumber,$_accountName)
         		<div class="content_box_title">FAQ</div>
         		<div class="content_box_icon"><img src="images/icon_faq.jpg" width="51" height="36"></div>
             	<div class="content_box_info_faq">
-                	<div class="content_box_info_h3">1. What is myDigiweb?</div>
+                	<div class="content_box_info_h3">1. What is mywebcom?</div>
                     <p>&nbsp;</p>
                 	<div class="content_box_info_h3">2. How can i check mt bill?</div>
                     <p>&nbsp;</p>
                 	<div class="content_box_info_h3">3. How can I update my details?</div>
               </div>
           <div class="content_box_info_faq_bottem">
-            <p><a href="http://support.digiweb.ie"><img src="images/buttons_support_grey.jpg" width="132" height="33"></a></p>
-            <a href="http://www.digiweb.ie/contact-us/"><img src="images/buttons_contact_grey.jpg" width="102" height="32"></a></div>
+            <p><a href="http://support.webcom.ie"><img src="images/buttons_support_grey.jpg" width="132" height="33"></a></p>
+            <a href="http://www.webcom.ie/contact-us/"><img src="images/buttons_contact_grey.jpg" width="102" height="32"></a></div>
     		<p>&nbsp;</p>
            </div>   
                               
