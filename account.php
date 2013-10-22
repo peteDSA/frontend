@@ -3,7 +3,7 @@
 include header.php;
 include footer.php;
 
-// variables
+// variables for test xxx
 $accountNumber = "23452345234";
 $accountName = "Declan Rennick";
 $panelName = "Declan Rennick";
